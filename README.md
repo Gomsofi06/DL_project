@@ -12,5 +12,9 @@ Build a model that predicts the family of a given specie based on its image.
 Includes a structured CSV file containing the file path of each image alongside its corresponding labels.
 
 ## Parts of the project:
-1. 
+1. Data Exploration and Analysis
+2. Pre-Processing
+3. Baseline model, Advanced models and hyperparameter tuning
+4. Final model, evaluation and error analysis
+5. Report 
 
